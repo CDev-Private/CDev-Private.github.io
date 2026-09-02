@@ -1,2 +1,3 @@
-# CDev-Private.github.io
-CDev MKT promo media for PostBridge
+CDev MKT promo mp4s for PostBridge. Public static assets only — no secrets.
+
+Hosted at https://cdev-private.github.io/promo/
